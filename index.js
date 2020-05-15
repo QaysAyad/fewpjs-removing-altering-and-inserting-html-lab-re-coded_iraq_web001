@@ -10,4 +10,4 @@ for (let i = 0; i < 3; i++) {
   ul.appendChild(li)
 }
 
-document.body.appendChild(ul)
+element.appendChild(ul)
